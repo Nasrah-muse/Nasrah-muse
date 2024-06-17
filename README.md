@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Full Stack Software Engineer**
 
-- 👨‍💻 All of my projects are available at [github.com/Nasrah-muse](github.com/Nasrah-muse)
-
 - 💬 Ask me about **Html, Css**
 
 - 📫 How to reach me **nazronafta143@gmail.com**
