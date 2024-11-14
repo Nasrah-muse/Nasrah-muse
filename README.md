@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nasro Muuse Warsame</h1>
+<h1 align="center">Hi 👋, I'm Nasro Muuse</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasrah-muse&label=Profile%20views&color=0e75b6&style=flat" alt="nasrah-muse" /> </p>
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Fullstack Software Engineering**
 
-- 💬 Ask me about **HTML, CSS, TailwandCSS**
+- 💬 Ask me about **HTML, CSS, TailwandCSS and JavaScript**
 
 - ⚡ Fun fact **I think I'm an open-minded person**
 
